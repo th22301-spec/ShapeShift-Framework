@@ -12,8 +12,8 @@ ShapeShift-Framework/
 ├── FilamentLevelSimulationTool.py       # Abaqus script: filament-level simulation from G-code
 ├── shapeshift_train.py                  # ML model training: MLP + GNN (ShapeShift Brain)
 ├── shapeshift_hyperopt.py               # Hyperparameter tuning module
-├── MEX-FEA-dataset.xlsx                 # MEX process input data (e.g., infill, pattern)
-├── SOLID-FEA-dataset.xlsx               # Surrogate geometry and torsional stiffness data
+├── MEX-FEA-dataset.csv                  # MEX process input data (e.g., infill, pattern)
+├── SOLID-FEA-dataset.csv                # Surrogate geometry and torsional stiffness data
 └── README.md                            # Project documentation
 
 ## Requirements
